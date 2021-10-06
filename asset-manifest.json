@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.7b595fec.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.1c002200.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.1c002200.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.08f933df.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.08f933df.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.37613236.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.37613236.js.map",
     "static/js/2.a46c97e8.chunk.js": "/react-gh-pages/static/js/2.a46c97e8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.37613236.js",
     "static/js/2.a46c97e8.chunk.js",
     "static/css/main.7b595fec.chunk.css",
-    "static/js/main.1c002200.chunk.js"
+    "static/js/main.08f933df.chunk.js"
   ]
 }
